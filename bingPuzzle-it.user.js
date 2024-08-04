@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         Bing Puzzle Solver with Advanced Options
 // @namespace    AnasQiblawi
-// @version      0.2
+// @version      2024-08-04
 // @description  Automatically complete Bing puzzle page with advanced options
-// @require      https://code.jquery.com/jquery-3.6.0.min.js
-// @require      https://code.jquery.com/ui/1.12.1/jquery-ui.min.js
+// @require      https://code.jquery.com/jquery-3.7.1.min.js
+// @require      https://code.jquery.com/ui/1.13.2/jquery-ui.min.js
 // @author       knva (enhanced by Anas Qiblawi)
 // @match        https://*.bing.com/spotlight/imagepuzzle*
+// @match        https://bing.com/spotlight/imagepuzzle*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bing.com
 // @grant        GM_getValue
 // @grant        GM_setValue
