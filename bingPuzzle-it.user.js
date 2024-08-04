@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Bing Puzzle Solver with Advanced Options
-// @namespace    knva
+// @namespace    AnasQiblawi
 // @version      0.2
 // @description  Automatically complete Bing puzzle page with advanced options
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
