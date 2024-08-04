@@ -2,8 +2,8 @@
 
 ## Quick Start Guide
 
-1. **Open the Puzzle Page**: Navigate to [Bing Image Puzzle](https://www.bing.com/spotlight/imagepuzzle).
-2. **Install the Script**: Add this script to your UserScript manager (Tampermonkey or Greasemonkey).
+1. **Install the Script**: Add this script to your UserScript manager (Tampermonkey or Greasemonkey).
+2. **Open the Puzzle Page**: Navigate to [Bing Image Puzzle](https://www.bing.com/spotlight/imagepuzzle).
 3. **Have Fun**: Enjoy automatic puzzle solving with customizable options!
 
 ## Overview
