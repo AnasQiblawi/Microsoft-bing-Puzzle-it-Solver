@@ -1,5 +1,7 @@
 # Bing Puzzle Auto Solver with Advanced Options
 
+![cdfk](./puzzle.gif)
+
 ## Quick Start Guide
 
 1. **Install the Script**: Add this script to your UserScript manager (Tampermonkey or Greasemonkey).
@@ -127,4 +129,3 @@ This project is licensed under the MIT License.
 
 Enjoy solving Bing puzzles effortlessly with this enhanced UserScript!
 
-![cdfk](./puzzle.gif)
